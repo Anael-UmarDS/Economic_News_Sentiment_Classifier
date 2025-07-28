@@ -78,3 +78,41 @@ This project pulls **real-time economic headlines** from [NewsAPI](https://newsa
 2. Click **"Get API Key"** and register with your information
 3. Replace your key in the cell under **API Setup** with where it says **"YOUR KEY HERE"**
 4. Run the notebook in Jupyter Labs, Google Colab, or in a Python file
+
+---
+
+## Conclusions
+
+- **Sentiment classification** on news headlines is feasible using lightweight models
+- **Weekly sentiment trends** can uncover **mood shifts** in the economy
+- Even rule-based systems like **VADER** can support training useful **supervised models**
+- The classifier achieved **reasonable performance** in identifying headline sentiment automatically
+
+---
+
+## Implications
+
+###Financial Markets
+
+- **Investor Sentiment Monitoring**: Investigate market mood in real-time
+- **Event-Driven Trading**: Identify spikes in optimism or fear to adjust strategy
+
+###Public Policy
+
+- **Macroeconomic Tracking**: Understand how the media presents economic news
+- **Crisis Detection**: Spot growing negative trends in headlines
+
+###ML Development
+
+- **Semi-Supervised Learning**: Demonstrates how to bootstrap datasets from unlabeled text
+- **Fine-Tuning Opportunity**: Base model could be improved using deep learning
+
+---
+
+## Machine Learning Concepts
+
+- API
+- Natural Language Processing (NLP)
+- Feature Engineering
+- Model Training & Evaluation
+- Data Visualization
