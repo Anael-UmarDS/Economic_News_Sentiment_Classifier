@@ -1,4 +1,4 @@
-#Economic News Sentiment Classifier
+# Economic News Sentiment Classifier
 
 ## Author
 
