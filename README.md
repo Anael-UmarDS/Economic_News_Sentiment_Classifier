@@ -92,17 +92,17 @@ This project pulls **real-time economic headlines** from [NewsAPI](https://newsa
 
 ## Implications
 
-###Financial Markets
+### Financial Markets
 
 - **Investor Sentiment Monitoring**: Investigate market mood in real-time
 - **Event-Driven Trading**: Identify spikes in optimism or fear to adjust strategy
 
-###Public Policy
+### Public Policy
 
 - **Macroeconomic Tracking**: Understand how the media presents economic news
 - **Crisis Detection**: Spot growing negative trends in headlines
 
-###ML Development
+### ML Development
 
 - **Semi-Supervised Learning**: Demonstrates how to bootstrap datasets from unlabeled text
 - **Fine-Tuning Opportunity**: Base model could be improved using deep learning
